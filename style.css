@@ -1,0 +1,85 @@
+body{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 20px;
+}
+h4{
+    font-size: 12px;
+}
+.name-highlight{
+    color: crimson;
+    font-weight: 2400;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+     width: 100%;
+}
+.header{
+     background-image: url("images/header-bg.png");
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,hotpink, red);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.biography{
+    background-image: url("image/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.one-third{
+    width: 26%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.one-third img{
+    width: 100%;
+}
+.latest-work{
+background-image: url("images/latest-work-bg.png");
+}
+.work{
+    text-align: center;
+
+}
+#work{
+    text-align: center;
+}
+.footer{
+    background-image: url("images/footer-bg.png");
+}
+.client{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+    font-size: 14px;
+}
+.hero{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,hotpink, red);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
